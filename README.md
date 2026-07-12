@@ -1,7 +1,5 @@
-# Medical-Image-Classification-AI
+# 🧠 Medical-Image-Classification-AI
 An AI vision model utilizing Google Teachable Machine and Keras to classify and detect brain tumors from medical MRI scans.
-
-# 🧠 Brain Tumor Classifier: Meningioma Detection
 
 ## 📖 Overview
 This repository contains a deep learning image classification project designed to identify brain tumors from medical images. Built using TensorFlow and Keras, the Python script analyzes input scans and predicts the specific tumor class, such as **meningioma**, while providing a statistical confidence score.
@@ -33,7 +31,7 @@ The underlying image classification model was prototyped and trained using [Goog
 ## 🚀 Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/Brain-Tumor-Classifier.git](https://github.com/yourusername/Brain-Tumor-Classifier.git)
+   git clone [https://github.com/yazid0al/Medical-Image-Classification-AI.git](https://github.com/yazid0al/Medical-Image-Classification-AI.git)
    cd Brain-Tumor-Classifier
 
 ## 🛠️ Usage & Getting the Output
