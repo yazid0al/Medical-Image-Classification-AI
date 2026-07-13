@@ -29,7 +29,7 @@ The underlying image classification model was prototyped and trained using [Goog
 * 🖼️ **Pillow (PIL)**
 
 ## 🚀 Installation
-1. Clone the repository:
+ Clone the repository:
    ```bash
    git clone [https://github.com/yazid0al/Medical-Image-Classification-AI.git](https://github.com/yazid0al/Medical-Image-Classification-AI.git)
    cd Brain-Tumor-Classifier
