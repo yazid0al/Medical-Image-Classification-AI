@@ -10,7 +10,7 @@ This project serves as a showcase of applying Artificial Intelligence and comput
 The medical imaging data used to train this model was sourced from Kaggle: 
 * **🔗 Dataset Link:** [Brain Tumor Image Dataset](https://www.kaggle.com/datasets/denizkavi1/brain-tumor)
 
-The dataset consists of MRI scans categorized into specific brain tumor classes, providing the foundational data required for the model to distinguish between healthy and affected scans.
+The dataset consists of MRI scans categorized into specific brain tumor classes (Meningioma, Glioma, Pituitary tumor), providing the foundational data required for the model to distinguish between healthy and affected scans.
 
 ## ⚙️ Model Training
 The underlying image classification model was prototyped and trained using [Google's Teachable Machine](https://teachablemachine.withgoogle.com/). This platform handled the transfer learning process based on the Kaggle dataset, allowing for the rapid export of a ready-to-use TensorFlow/Keras model (`keras_model.h5`) and the corresponding class names (`labels.txt`). 
