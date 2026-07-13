@@ -52,4 +52,4 @@ image_path = "test_image/pituitary_tumor.png"
 Class: Pituitary tumor
 Confidence Score: 0.9991473
  ``` 
-![Alt text describing the image](test_images/pituitary_tumor.png)
+![Alt text describing the image](output_image/output.png)
