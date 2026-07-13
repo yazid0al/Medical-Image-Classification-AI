@@ -33,7 +33,7 @@ The underlying image classification model was prototyped and trained using [Goog
    ```bash
    git clone [https://github.com/yazid0al/Medical-Image-Classification-AI.git](https://github.com/yazid0al/Medical-Image-Classification-AI.git)
    cd Brain-Tumor-Classifier
-
+```
 ## 🛠️ Usage & Getting the Output
 Follow these steps to test the model and generate a prediction:
 
